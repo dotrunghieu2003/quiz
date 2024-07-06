@@ -1,6 +1,9 @@
 # quiz
 Quiz system demo
 
+#Technology: 
+Java Spring Boot version 3.3.1, Java version 17, build tool Maven, we can add Docker file for K8S Container runnable
+
 # How to run: checkout the source code into local PC and run command
 mvn spring-boot:run
 Application Starting
