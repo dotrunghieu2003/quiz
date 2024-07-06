@@ -27,7 +27,7 @@ Application Starting
 
 
 # Sample JSON Data of LeaderBoard API
-
+```JSON
 {
   "id": "QS1720258735460",
   "userQuizList": [
@@ -1273,3 +1273,4 @@ Application Starting
     }
   ]
 }
+```
