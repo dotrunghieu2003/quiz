@@ -1,5 +1,14 @@
 # quiz
 Quiz system demo
+# User case Diagram
+![image](https://github.com/dotrunghieu2003/quiz/assets/22995357/240eb01f-6009-481d-84f1-a174e87a6576)
+
+# System and component architecture
+
+![image](https://github.com/dotrunghieu2003/quiz/assets/22995357/27af85db-8fe2-4218-8f2c-49b1eaaaec61)
+
+# Quiz Test Flow Diagram
+![image](https://github.com/dotrunghieu2003/quiz/assets/22995357/675b5292-70fe-4555-bed7-e817c4edd6be)
 
 #Technology: 
 Java Spring Boot version 3.3.1, Java version 17, build tool Maven, we can add Docker file for K8S Container runnable
