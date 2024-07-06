@@ -11,7 +11,7 @@ Quiz system demo
 ![image](https://github.com/dotrunghieu2003/quiz/assets/22995357/675b5292-70fe-4555-bed7-e817c4edd6be)
 
 # Sample Demo for module LeaderBoard Monitor
-  For demostation, system create mock data on Quation, Users, Quiz, UserQuiz and QuizSession during application start up
+  For demostation, system create mock data on Question, Users, Quiz, UserQuiz and QuizSession during application start up
   This servive expose the Rest API for multiple FE style (Web/Mobile App) can consume and render data
 #Technology: 
 Java Spring Boot version 3.3.1, Java version 17, build tool Maven, we can add Docker file for K8S Container runnable
